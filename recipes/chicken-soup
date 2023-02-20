@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Odin Recipes</title>
+    </head>
+    <body>
+
+        <h1>chicken-soup</h1>
+        <img width="500" alt="chicken-soup" src="https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/chickensoup_1918_16x9.jpg">
+ 
+        <h3>Pure soul food, this warming, easy chicken soup makes the most of leftover roast chicken. It's a simple soup recipe, so really relies on the quality of the stock</h3>
+
+        <p>Each serving provides 288kcal, 28g protein, 11.5g carbohydrate (of which 7g sugars), 14g fat (of which 6.5g saturates), 3.4g fibre and 0.7g salt.</p>
+        <h4>Ingredients</h4>
+        <ul>
+          <li>55g/2oz butter</li>  
+          <li>2 sticks celery, finely chopped</li>
+          <li>2 carrots, finely diced</li>
+          <li>25g/2oz plain flour</li>
+          <li>1.2 litres/2 pints chicken stock</li>
+          <li>450g/1lb cooked chicken, skinned and shredded</li>
+          <li>1 tbsp chopped fresh parsley</li>
+          <li>salt and freshly ground black pepper</li>
+        <h4>steps</h4>
+        <ol>
+            <li>Melt the butter in a large saucepan over a medium heat and gently fry the onions, celery and carrots until they start to soften.</li>
+            <li>Stir in the flour and cook for 2 minutes. Add the chicken stock and bring the mixture to the boil, stirring as you do so. Season with salt and pepper, then reduce the heat until the mixture is simmering and simmer for 10 minutes, or until the vegetables are tender.</li>
+            <li>Add the cooked chicken and cook until heated through. Adjust the seasoning, stir in the parsley and serve.></Add>/li>
+        </ol>
+
+    </body>
+</html>
