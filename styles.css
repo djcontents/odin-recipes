@@ -6,4 +6,10 @@
 }
 h1{
     text-align: center;
+    font-size: 40px;
+}
+a{
+    margin: 10px;
+    color: black;
+    font-size: 20px;
 }
